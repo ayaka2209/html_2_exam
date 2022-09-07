@@ -78,19 +78,22 @@ header li {
 .function {
 	background-color: #d3d3d3;
 	/* width: 1000px; */
-	height: 700px;
+	height: 400px;
 	margin: 0 auto;
 }
 
 .function h1 {
+	/* height: 50%; */
 	font-size: 30px;
 	padding: 25px;
 	margin: 0 auto;
 }
 
 .function-images {
+	/* height: 50%; */
 	width: 1000px;
-	margin: 0 auto; 
+	margin: 0 auto;
+	/* padding: 50px; */
 	/* display: flex;
 	justify-content: center; */
 }
